@@ -419,7 +419,7 @@ section{
 }
 
 .contact-form button{
-    width: 100;
+    width: 100%;
     border: none;
     border-radius: 10px;
     background: #fce138;
