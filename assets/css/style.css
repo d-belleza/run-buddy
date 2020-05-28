@@ -335,15 +335,15 @@ section{
 }
 
 .trainer-1{
-    background-image: url("/assets/images/01-05-trainers/trainer-1.jpg");
+    background-image: url("../images/01-05-trainers/trainer-1.jpg");
 }
 
 .trainer-2{
-    background-image: url("/assets/images/01-05-trainers/trainer-2.jpg");
+    background-image: url("../images/01-05-trainers/trainer-2.jpg");
 }
 
 .trainer-3{
-    background-image: url("/assets/images/01-05-trainers/trainer-3.jpg");
+    background-image: url("../images/01-05-trainers/trainer-3.jpg");
 }
 
 .trainer-img{
